@@ -1,4 +1,4 @@
-# Python File Sorter
+# Automatic File-Sorter in Python
 
 A Python automation script that organizes files in your **Downloads** folder by type — Images, Documents, Videos, Audio, Archives, and Others.  
 Built to clean up clutter with a single run — beginner-friendly and built only with Python's standard libraries.
