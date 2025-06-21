@@ -2,7 +2,7 @@ import shutil  # Used for moving and copying files
 from pathlib import Path  # Preferred over os.path for modern and readable path handling
 
 # Define the Downloads folder path dynamically
-downloads_path = Path.home() / "Downloads"  # Path.home() gives C:/Users/<username>
+downloads_path = Path.home() / "Downloads"  # Path.home() gives C:/Users/...
 # To verify the path, you can uncomment this:
 # print(downloads_path)
 
